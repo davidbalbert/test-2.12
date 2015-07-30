@@ -1,319 +1,287 @@
 ;(function() {
     "use strict";
     
-    function nxt() {
-        alert("Hello, world!");
+    function fkc(y, x) {
+        return y + x;
     }
     
-    function knp(y) {
+    function qxx(x, y, z) {
+        return x + y + z;
+    }
+    
+    function sba(y) {
         console.log(y);
     }
     
-    function dhp() {
-        alert("Hello, world!");
+    function eng(x, y, z) {
+        x.y(z);
     }
     
-    function rbj(y) {
-        console.log(y);
+    function wes(y, z, x) {
+        return y + z + x;
     }
     
-    function big() {
-        return true;
+    function tro(z) {
+        console.log(z);
     }
     
-    function dev(y, z, x) {
+    function wna(x, y, z) {
+        console.log(x, y, z);
+    }
+    
+    function tyf(y, z, x) {
         console.log(y, z, x);
     }
     
-    function dfj(z) {
-        console.log(z);
+    function vmv(z, x) {
+        return z + x;
     }
     
-    function duv(z) {
-        console.log(z);
+    function tze(x, y, z) {
+        return x + y + z;
     }
     
-    function twh(z, x) {
-        console.log(z, x);
-    }
-    
-    function del(z, x, y) {
-        return z + x + y;
-    }
-    
-    function cfl(y, x, z) {
-        return y + x + z;
-    }
-    
-    function ege(y) {
-        return y;
-    }
-    
-    function ojb(x, y) {
-        return x + y;
-    }
-    
-    function usj(z) {
-        console.log(z);
-    }
-    
-    function dwx(y, x) {
-        console.log(y, x);
-    }
-    
-    function lrs(x, y) {
-        console.log(x, y);
-    }
-    
-    function fsd(x, y, z) {
-        console.log(x, y, z);
-    }
-    
-    function xyc(y, z) {
-        return y + z;
-    }
-    
-    function mlj() {
-        alert("Hello, world!");
-    }
-    
-    function ulj(x, y, z) {
-        console.log(x, y, z);
-    }
-    
-    function urs(z) {
-        return z;
-    }
-    
-    function sgi(y, x) {
-        return y + x;
-    }
-    
-    function geh(z) {
-        return z;
-    }
-    
-    function bjc(x, z, y) {
-        x.z(y);
-    }
-    
-    function ngh() {
+    function fso() {
         return true;
     }
     
-    function thx(z) {
-        return z;
+    function ffw() {
+        return true;
     }
     
-    function bmu(x, y) {
-        console.log(x, y);
-    }
-    
-    function aby(y) {
-        return y;
-    }
-    
-    function mof() {
-        alert("Hello, world!");
-    }
-    
-    function hdm(x, z) {
+    function hxi(x, z) {
         console.log(x, z);
     }
     
-    function hkx(y, x, z) {
-        return y + x + z;
-    }
-    
-    function olh(z, x, y) {
-        return z + x + y;
-    }
-    
-    function tmj(x) {
+    function hty(x) {
         console.log(x);
     }
     
-    function idx(x, y) {
-        return x + y;
+    function rdd() {
+        return true;
     }
     
-    function gzk(y, z) {
-        console.log(y, z);
-    }
-    
-    function ssb(y) {
+    function kja(y) {
         return y;
     }
     
-    function pxu(z, y, x) {
-        z.y(x);
+    function aiw() {
+        return true;
     }
     
-    function fyy() {
+    function dwv(y, z, x) {
+        return y + z + x;
+    }
+    
+    function fke(z, y, x) {
+        return z + y + x;
+    }
+    
+    function bpf(x) {
+        return x;
+    }
+    
+    function miv() {
         alert("Hello, world!");
     }
     
-    function xze(x) {
-        console.log(x);
-    }
-    
-    function wkn(z) {
+    function xjh(z) {
         console.log(z);
     }
     
-    function lof(y, z) {
-        console.log(y, z);
-    }
-    
-    function nmc(x, y) {
-        console.log(x, y);
-    }
-    
-    function ftp(x) {
-        return x;
-    }
-    
-    function rmw(z, y, x) {
-        console.log(z, y, x);
-    }
-    
-    function wvq() {
+    function jlx() {
         alert("Hello, world!");
     }
     
-    function ybq(z, x, y) {
-        return z + x + y;
+    function gap(y) {
+        return y;
     }
     
-    function lov(x, y, z) {
-        return x + y + z;
+    function hmp(z, x) {
+        return z + x;
     }
     
-    function xyx(z, x, y) {
-        z.x(y);
+    function lju() {
+        return true;
     }
     
-    function nuo(x) {
-        console.log(x);
+    function lfb(x, z, y) {
+        console.log(x, z, y);
     }
     
-    function qzx(x) {
-        console.log(x);
-    }
-    
-    function qes() {
+    function qok() {
         alert("Hello, world!");
     }
     
-    function dlm(x) {
-        return x;
+    function akj() {
+        return true;
     }
     
-    function plt(x, y) {
+    function dje(x, y) {
         console.log(x, y);
     }
     
-    function ccb(y, x) {
+    function ugg(y, x) {
         return y + x;
     }
     
-    function zez(x, z, y) {
-        console.log(x, z, y);
-    }
-    
-    function rze(x) {
-        return x;
-    }
-    
-    function ycg() {
-        return true;
-    }
-    
-    function ovg(x, z) {
-        return x + z;
-    }
-    
-    function zsa(x, y) {
-        console.log(x, y);
-    }
-    
-    function jjx() {
-        return true;
-    }
-    
-    function igq() {
-        return true;
-    }
-    
-    function tgk(z, y, x) {
-        console.log(z, y, x);
-    }
-    
-    function wor() {
-        return true;
-    }
-    
-    function sdp(x, y) {
-        return x + y;
-    }
-    
-    function jgb(z) {
+    function enf(z) {
         console.log(z);
     }
     
-    function snp(y, z) {
+    function xqo(x, y, z) {
+        x.y(z);
+    }
+    
+    function cvp() {
+        alert("Hello, world!");
+    }
+    
+    function loj(z, y, x) {
+        console.log(z, y, x);
+    }
+    
+    function fdz(z) {
+        return z;
+    }
+    
+    function tda(x) {
+        console.log(x);
+    }
+    
+    function rds(y, x, z) {
+        console.log(y, x, z);
+    }
+    
+    function kkd() {
+        return true;
+    }
+    
+    function pnt(y, z) {
         return y + z;
     }
     
-    function epd() {
-        return true;
+    function nye(z, x) {
+        return z + x;
     }
     
-    function nug(x, z, y) {
-        console.log(x, z, y);
+    function pgr(z) {
+        return z;
     }
     
-    function rkn() {
-        return true;
-    }
-    
-    function lbj(x, y) {
-        console.log(x, y);
-    }
-    
-    function dog() {
-        alert("Hello, world!");
-    }
-    
-    function vsd(x, y) {
-        return x + y;
-    }
-    
-    function jvt() {
-        return true;
-    }
-    
-    function ajy(x) {
+    function eeh(x) {
         return x;
     }
     
-    function ark(y) {
-        console.log(y);
+    function bwf(x, z, y) {
+        return x + z + y;
     }
     
-    function dsb(y, x) {
-        console.log(y, x);
+    function ych(z, y) {
+        console.log(z, y);
     }
     
-    function hft() {
+    function gua(x, y) {
+        return x + y;
+    }
+    
+    function cgb(x, z) {
+        return x + z;
+    }
+    
+    function gnx(y, z) {
+        console.log(y, z);
+    }
+    
+    function thn() {
         return true;
     }
     
-    function hzf() {
+    function kmm(y, z, x) {
+        console.log(y, z, x);
+    }
+    
+    function lhz(x, z) {
+        return x + z;
+    }
+    
+    function pmy() {
         alert("Hello, world!");
     }
     
-    function sbr(x, y, z) {
+    function ixb(x, y) {
+        return x + y;
+    }
+    
+    function hjb(y) {
+        console.log(y);
+    }
+    
+    function qyj(x, y, z) {
         return x + y + z;
+    }
+    
+    function opv(z, x) {
+        console.log(z, x);
+    }
+    
+    function jsr() {
+        alert("Hello, world!");
+    }
+    
+    function who(z, y, x) {
+        return z + y + x;
+    }
+    
+    function aam(z, x, y) {
+        return z + x + y;
+    }
+    
+    function ibz(z, x, y) {
+        return z + x + y;
+    }
+    
+    function yoe() {
+        alert("Hello, world!");
+    }
+    
+    function snq(z, y, x) {
+        z.y(x);
+    }
+    
+    function yro(x) {
+        console.log(x);
+    }
+    
+    function igv(y, z) {
+        return y + z;
+    }
+    
+    function vqe(z) {
+        console.log(z);
+    }
+    
+    function iay(x, z, y) {
+        x.z(y);
+    }
+    
+    function nqm() {
+        alert("Hello, world!");
+    }
+    
+    function gtf() {
+        return true;
+    }
+    
+    function lsb(z, x, y) {
+        return z + x + y;
+    }
+    
+    function kpx(z, y, x) {
+        z.y(x);
+    }
+    
+    function qxi(y, z, x) {
+        y.z(x);
     }
 })();
